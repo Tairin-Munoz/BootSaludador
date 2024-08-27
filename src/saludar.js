@@ -24,7 +24,7 @@ function saludar (nombre,genero,edad,idioma){
             {
                 if (edad>30)
                 {
-                    return "Hi Missus " + nombre;
+                    return "Hi Madam " + nombre;
                 }
                 return "Hi Miss " + nombre;
             }
